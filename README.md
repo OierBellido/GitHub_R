@@ -47,7 +47,7 @@ si quiero que seo una lista ordenada:
 
 esto lo desarollará es una nota al pie[^1]
 
-[^1]que desarrollaré aqui 
+[^1]:que desarrollaré aqui 
 
 
   y también hay emojis. :+1: o :shipit:
