@@ -20,3 +20,5 @@ git commit -m "Este es el proceso que aprendemos"
 ```
 
 Y si quereis poner in link tendreis que poner [Nombre que aparecerá](https://www.youtube.com/)
+
+[Aqui ponemos una pequeña frase descriptiva de la imagen para las personas que no puedan ver y para que el buscador nos posicione mejor][https://assets.laliga.com/squad/2023/t173/p470312/2048x2225/p470312_t173_2023_1_001_000.png]
