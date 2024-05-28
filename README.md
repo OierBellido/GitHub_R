@@ -50,7 +50,7 @@ esto lo desarollará es una nota al pie[^1]
 [^1]:que desarrollaré aqui 
 
 
-  y también hay emojis. :+1: o :shipit:
+  y también hay emojis. :+1: o :shipit: :trollface:
 
  > [!NOTE]
   >información util que hay qeu puntualizar 
